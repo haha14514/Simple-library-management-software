@@ -52,27 +52,3 @@
 
 
 
-ENGLISH
-A Simple Library Management Software Project (Android)
-How to Use:
-Go to this site and sign up for an account with several databases tinywebdb.appinventor.space
-Sign up for an account and don't forget your password!!!!
-After entering the main interface, click (Borrow/Return Book)
-Enter the interface, scroll down and click {Settings}!
-
-Enter the password you used to register your account!!
-! [0000] (https://github.com/user-attachments/assets/408ef8ec-f661-4847-8513-83a7c00b2aeb)
-
-When the above interface appears, please enter different server addresses in the two text boxes (all server addresses in the tutorial are public addresses provided by the website, and are strongly discouraged!!! ）
-Example of server address:
-! [02] (https://github.com/user-attachments/assets/bb1ef99a-c7fe-482d-9e6f-af19ae5d9b3b)
-Paste all the items marked in the figure into the text box
-Once the input is complete, click the "Advanced Settings" button below
-Go to the following page:
-! [000] (https://github.com/user-attachments/assets/0c919304-c104-46b5-8569-069729056b74)
-Fill in all the server addresses that need to be filled in, and do not touch anything else
-How to fill in the account key: Find the marked items in the background of the book address server and fill it in
-! [50] (https://github.com/user-attachments/assets/bbc001f9-e7bb-4a1c-88e4-227d2ad57e40)
-
-All server addresses in this project are not allowed to be duplicated!!!!!!
-That's all for this software! Applicable devices: Android 5.0 or above
