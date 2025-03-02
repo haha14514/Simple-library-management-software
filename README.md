@@ -23,6 +23,35 @@
 
 本项目所有的服务器地址都不允许重复！！！！！！！
 以上是本软件的所有方法！适用设备：安卓5.0以上设备
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ENGLISH
 A Simple Library Management Software Project (Android)
 How to Use:
