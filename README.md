@@ -1,4 +1,5 @@
 # Simple-library-management-software
+点击右侧release即可下载，项目源码在比赛结束后（应该是2025年9月后）发出
 一个简单的图书馆管理软件项目（安卓）
 简体中文：
 使用方法：
